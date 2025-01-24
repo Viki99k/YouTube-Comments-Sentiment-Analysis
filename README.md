@@ -31,7 +31,7 @@ The **YouTube Video Sentiment Analysis Extension** is a powerful browser extensi
 ### **Step 1: Clone the Repository**
 ```bash
 # Clone this repository to your local machine
-git clone https://github.com/your-username/youtube-sentiment-extension.git
+git clone https://github.com/Viki99k/YouTube-Comments-Sentiment-Analysis.git
 ```
 
 ### **Step 2: Set Up the Backend**
