@@ -99,7 +99,7 @@ youtube-sentiment-extension/
 ## 🖼️ **Screenshots**
 
 ### Sentiment Analysis Results
-![Screenshot of the Extension](assets/Screenshot1.png)
+![Screenshot of the Extension](assets/screenshot1.png)
 ---
 
 ## 🤝 **Contributing**
