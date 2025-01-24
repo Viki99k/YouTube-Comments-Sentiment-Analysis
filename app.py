@@ -8,11 +8,11 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS to allow cross-origin requests from the extension
 
 # IBM Watson NLU credentials
-IBM_WATSON_API_KEY = "ztdYNk51T-s3jDi2PMY8eVDnurTZ36gS9C7KCIXa8JYQ"
-IBM_WATSON_API_URL = "https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/7d5f0260-4d52-42ab-ab2f-634c15dd7fa0"
+IBM_WATSON_API_KEY = "Enter Your IBM Api key"
+IBM_WATSON_API_URL = "nter Your IBM Api url"
 
 # YouTube API key
-YOUTUBE_API_KEY = "AIzaSyDpWi3C_B2U7YVtONvuGizgxHBPKB3SNEI"
+YOUTUBE_API_KEY = "Anter Your YouTube Api key"
 
 # Initialize IBM Watson NLU
 authenticator = IAMAuthenticator(IBM_WATSON_API_KEY)
